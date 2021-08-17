@@ -115,8 +115,8 @@
        alt="Pelacs favorite languages" />
 </a>
   
-<a href="https://github.com/Lunox-code">
+<a href="https://github.com/bgescalada">
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=bgescalada&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
+       src="https://github-readme-stats.vercel.app/api?username=bgescalada&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko" />
 </a>
 
