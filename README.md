@@ -39,7 +39,7 @@
        src="https://user-images.githubusercontent.com/55005374/103146236-e52bd700-470b-11eb-861e-e6f549b02b88.png" />
   </a>
   
-<a href="mailto:lunox.code@gmail.com">
+<a href="mailto:bagescalada@gmail.com">
   <img align="center" 
        alt="Gmail" 
        width="22px" 
