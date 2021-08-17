@@ -3,7 +3,7 @@
 <!--  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="5px"> -->
       <img src="https://media.giphy.com/media/S3PBXqHjKL9GZhK2Yv/giphy.gif"
-       with="30px">
+       with="5px">
   </h2></h1>
 
 
