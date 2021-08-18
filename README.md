@@ -108,15 +108,9 @@
     <p align="center">
       <div align="center">
     </p>
-<!--   
 <a href="https://github.com/bgescalada?tab=repositories">
-  <img align="center" 
-       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgescalada)](https://github.com/anuraghazra/github-readme-stats)
+   <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=bgescalada&layout=compact&show_icons=true&theme=merko"
        alt="Pelacs favorite languages" />
-</a>
--->
-<a href="https://github.com/bgescalada">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=bgescalada&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko" />
 </a>
 
